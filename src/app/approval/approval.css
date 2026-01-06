@@ -604,20 +604,20 @@
     height: auto;
     border: 1px solid #f0f0f0;
     border-collapse: collapse;
-    margin: 15px 0;
+    margin: 0px;
 }
 
-.footer-table .Qr_code {
+/* .footer-table .Qr_code {
     border-right: 1px solid #f0f0f0;
     text-align: center;
     padding: 20px 0;
-}
+} */
 
 
 .footer-table>tr>td {
-    font-size: 13px;
+    font-size: 11px;
     border-bottom: 1px solid #e6e6e6;
-    padding: 10px 40px;
+    padding: 6px 10px;
 }
 
 .footer-table>tr>td[dir="rtl"] {
@@ -669,7 +669,8 @@
         font-size: 11px;
     }
 
-    .title-content, .title-text{
+    .title-content,
+    .title-text {
         white-space: normal !important;
     }
 
